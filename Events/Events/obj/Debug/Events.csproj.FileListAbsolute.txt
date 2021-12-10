@@ -1,0 +1,31 @@
+C:\Users\Администратор\source\repos\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Администратор\source\repos\Events\Events\bin\Debug\Events.exe
+C:\Users\Администратор\source\repos\Events\Events\bin\Debug\Events.pdb
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.exe
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.pdb
+C:\Users\Администратор\source\repos\Events\Events\obj\Debug\Events.Form1.resources
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\bin\Debug\Events.exe.config
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\bin\Debug\Events.exe
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\bin\Debug\Events.pdb
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\obj\Debug\Events.Form1.resources
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\obj\Debug\Events.exe
+C:\Users\vadim\Desktop\2 курс\Технология программирования (Лаб)\Events\Events\obj\Debug\Events.pdb
+G:\ИРНИТУ\2 курс\ТП\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+G:\ИРНИТУ\2 курс\ТП\Events\Events\obj\Debug\Events.Form1.resources
+G:\ИРНИТУ\2 курс\ТП\Events\Events\obj\Debug\Events.Properties.Resources.resources
+G:\ИРНИТУ\2 курс\ТП\Events\Events\obj\Debug\Events.csproj.GenerateResource.cache
+G:\ИРНИТУ\2 курс\ТП\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+G:\ИРНИТУ\2 курс\ТП\Events\Events\obj\Debug\Events.exe
+G:\ИРНИТУ\2 курс\ТП\Events\Events\obj\Debug\Events.pdb
+G:\ИРНИТУ\2 курс\ТП\Events\Events\bin\Debug\Events.exe.config
+G:\ИРНИТУ\2 курс\ТП\Events\Events\bin\Debug\Events.exe
+G:\ИРНИТУ\2 курс\ТП\Events\Events\bin\Debug\Events.pdb
